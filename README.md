@@ -1,2 +1,2 @@
 # everis-kibana
-Exemplo com Spring Boot + Kibana
+Exemplo de log com Spring Boot + Kibana
